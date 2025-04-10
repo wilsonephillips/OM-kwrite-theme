@@ -1,5 +1,5 @@
 # OM-kwrite-theme
-OM brand colorscheme for use in KWrite
+OM brand colorscheme for use in KWrite. This one has to be imported into kwrite.
 
 Open the OMDark.theme and click the Download Raw File in the top right of the window or use Ctl+Shft+s
 Open Kwrite
